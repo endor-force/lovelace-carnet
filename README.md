@@ -105,3 +105,5 @@ Double check the dimensions of the image. The style below was set based on my im
 
 #END VW IMAGE CARD
 ```
+### Guides
+Tristan created a video how to use this card in lovelace: https://youtu.be/91223AtNvVc
